@@ -1,0 +1,9 @@
+{
+    "name": "annet/afyacare",
+    "description": "AfyaCare Patient Authentication System",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "phpmailer/phpmailer": "^7.1"
+    }
+}
